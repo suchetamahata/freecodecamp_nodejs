@@ -12,5 +12,6 @@
 		"url": "https://idontknow/todo.git"
 	},
  	"author":"sucheta mahata",
-	 "description": "freecode camp"
+	 "description": "freecode camp",
+	 "keywords": [ "descriptive", "related", "words" ]
 }
